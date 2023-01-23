@@ -1,16 +1,9 @@
-# mobil_projesi
+Döküman linki;
 
-A new Flutter project.
+doc:https://docs.google.com/document/d/1cjfgkeX2E-1WMUmHpl1tWtr6mnhiaRMf/edit?usp=share_link&ouid=115026808199364512009&rtpof=true&sd=true
 
-## Getting Started
+pdf:https://drive.google.com/file/d/1VNFOA0x7kJR6eppgSt4xNal76DyOXSAz/view?usp=share_link
 
-This project is a starting point for a Flutter application.
+Video linki;
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://drive.google.com/file/d/1Yb6B6GyUrB7v7LBfT-PIOp5cTdAjXVuT/view?usp=share_link
